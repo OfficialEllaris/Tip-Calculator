@@ -1,3 +1,5 @@
+> ### ``` 🎯🎯🎯 Day Two Project - 100 Days of Code ```
+
 ## Tip Calculator
 
 # Instructions
